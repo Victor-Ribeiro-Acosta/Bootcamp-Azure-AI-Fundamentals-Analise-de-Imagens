@@ -1,0 +1,1 @@
+# Bootcamp-Azure-AI-Fundamentals-Analise-de-Imagens
